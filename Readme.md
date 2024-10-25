@@ -23,6 +23,9 @@ The project aims to help you understand how to build a full-stack real-world app
 ## Features
 
 ### Frontend
+**𝗥𝗲𝗮𝗰𝘁 𝗝𝘀**:- It's a JavaScript Library(Frontend)
+  - UI Design:- 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦
+  
 - **Home Page**:
   - Display a YouTube-like header.
   - Static sidebar with toggle from the hamburger menu.
